@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub Viewer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="mainSearchButton">Search</string>
+    <string name="mainInputText">Username</string>
+    <string name="toolbar_title">GitHub Viewer</string>
+
+    <!-- User Activity -->
+    <string name="title_activity_user">UserActivity</string>
+
+    <!-- Dialog error -->
+    <string name="dialog_conection_error">A network error has occurred. Check your Internet connection and try again later.</string>
+    <string name="dialog_valid_user_error">User not found. Please enter another name.</string>
+    <string name="dialog_button_ok">OK</string>
+
+</resources>
