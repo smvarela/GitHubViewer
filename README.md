@@ -9,3 +9,4 @@ It's build using this libraries:
 - Eventbus:3.0.0
 - de.hdodenhof:circleimageview:2.1.0
 
+![GitHubViewer Screenshot](screenshots/frames.gif)
